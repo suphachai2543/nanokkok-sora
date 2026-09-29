@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="ภาพแทนที่สำหรับการ์ดบริการ">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e3eefb"/>
+      <stop offset="100%" stop-color="#b9d6f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#card)"/>
+  <g transform="translate(400 180)">
+    <g fill="#0a72e8" opacity="0.9">
+      <path d="M-150 40h300v130h-300z"/>
+      <path d="M-150 40L0 -30l150 70z" fill="#0859b8"/>
+    </g>
+    <g stroke="#ffffff" stroke-width="4" opacity="0.85">
+      <path d="M-150 80h300M-150 120h300M-150 160h300M-100 40v130M-50 40v130M0 40v130M50 40v130M100 40v130"/>
+    </g>
+    <circle cx="-235" cy="20" r="34" fill="#ffb81c"/>
+  </g>
+  <text x="400" y="410" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="26" fill="#3a6486">800 × 450</text>
+</svg>

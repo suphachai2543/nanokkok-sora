@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="ภาพแทนที่สำหรับรูปทีมงาน">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#cfe4f7"/>
+      <stop offset="100%" stop-color="#9cc6ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.85">
+    <rect x="220" y="220" width="300" height="190" rx="8" transform="rotate(-8 220 220)"/>
+    <rect x="680" y="300" width="300" height="190" rx="8" transform="rotate(7 680 300)"/>
+  </g>
+  <g stroke="#5b8fbd" stroke-width="6" opacity="0.6">
+    <path d="M260 250l220 130M260 310l220 130M260 370l220 60M700 330l220 130M700 390l220 130M700 450l220 60"/>
+  </g>
+  <g fill="#31597d">
+    <circle cx="600" cy="600" r="58"/>
+    <path d="M470 860c0-90 60-140 130-140s130 50 130 140z"/>
+  </g>
+  <text x="600" y="840" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="34" fill="#31597d">วางรูปทีมงาน / ผลงานติดตั้งจริงที่นี่</text>
+</svg>
